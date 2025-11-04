@@ -1,4 +1,4 @@
-##📊 Data-Analysis-Portfolio
+## Data-Analysis-Portfolio
 
 My SQL and Data analysis projects portfolio.
 Welcome to my **Data Analysis Portfolio**, where I showcase projects focused on **SQL** and **Excel-based business analytics**.  
