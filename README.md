@@ -1,4 +1,4 @@
-# Data-Analysis-Portfolio
+#📊 Data-Analysis-Portfolio
 My SQL and Data analysis projects portfolio.
 
 Here are some of my SQL projects:
