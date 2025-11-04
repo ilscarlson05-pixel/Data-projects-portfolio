@@ -11,8 +11,8 @@ Here are some of my SQL projects:
 
 2️⃣.[🏬 [Store Revenue Segmentation] https://github.com/ilscarlson05-pixel/store-revenue-segmentation-sql
 
-## Categorize stores by total net revenue, and percentage contribution for each store category in 2023.
+ Categorize stores by total net revenue, and percentage contribution for each store category in 2023.
 
 3️⃣.[🌍Revenue by Store Size and Country] https://github.com/ilscarlson05-pixel/Store-revenue-analysis
 
-## Calculates total revenue by store size and country in 2023.
+ Calculates total revenue by store size and country in 2023.
