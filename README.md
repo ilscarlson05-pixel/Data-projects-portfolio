@@ -11,6 +11,6 @@ Here are some of my SQL projects:
 
 Categorize stores by total net revenue, and percentage contribution for each store category in 2023.
 
-2.[Revenue by Store Size and Country] https://github.com/ilscarlson05-pixel/Store-revenue-analysis
+3.[Revenue by Store Size and Country] https://github.com/ilscarlson05-pixel/Store-revenue-analysis
 
 Calculates total revenue by store size and country in 2023.
